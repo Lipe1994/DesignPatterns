@@ -22,4 +22,13 @@ Alguns dos 23 Patterns:
 [B - Abstract observer](https://github.com/Lipe1994/PatternObserver)
 
 
+Famílias:
+
+C -  Fornecem meios de criação de um objetos por heranças e interfaces para diferentes funcionalidades.
+
+S - Tratam da composição de objetos por heranças e interfaces para diferentes funcionalidades.
+
+B - Tratam das interações das interações e comunicação entre objetos além da divisão de responsabilidades.
+
+
 
