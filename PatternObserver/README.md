@@ -1,4 +1,4 @@
-# AbstractFactory
-Minha implementação de AbstractFactory
+# Observer
+Minha implementação de Observer
 
 ![Example](PatternObserver.png)
