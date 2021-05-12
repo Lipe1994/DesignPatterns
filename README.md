@@ -1,5 +1,5 @@
 # DesignPatterns
-Organizando minhas experiências com design patterns
+Organizando minhas experiências com design patterns. Seguindo cursos, documentações e vídeos no youtube
 
 São padrões de código para resolução de problemas conhecidos.
 
