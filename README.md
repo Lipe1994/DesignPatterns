@@ -11,15 +11,15 @@ Atualmente existem mais de 80 padrões conhecidos que são variações dos 23 pa
 
 Alguns dos 23 Patterns:
 
-[C - Abstract factory](https://github.com/Lipe1994/AbstractFactory)
+[C - Abstract factory](AbstractFactory)
 
-[B - Pattern command](https://github.com/Lipe1994/PatternCommand)
+[B - Pattern command](PatternCommand)
 
-[S - Pattern facade](https://github.com/Lipe1994/PatternFacade)
+[S - Pattern facade](PatternFacade)
 
-[S - Abstract adapter](https://github.com/Lipe1994/pattern_adapter)
+[S - Abstract adapter](pattern_adapter)
 
-[B - Abstract observer](https://github.com/Lipe1994/PatternObserver)
+[B - Abstract observer](PatternObserver)
 
 
 Famílias:

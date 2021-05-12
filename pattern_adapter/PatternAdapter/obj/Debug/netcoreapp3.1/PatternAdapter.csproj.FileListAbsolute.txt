@@ -1,0 +1,13 @@
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\bin\Debug\netcoreapp3.1\PatternAdapter.exe
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\bin\Debug\netcoreapp3.1\PatternAdapter.deps.json
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\bin\Debug\netcoreapp3.1\PatternAdapter.runtimeconfig.json
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\bin\Debug\netcoreapp3.1\PatternAdapter.runtimeconfig.dev.json
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\bin\Debug\netcoreapp3.1\PatternAdapter.dll
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\bin\Debug\netcoreapp3.1\PatternAdapter.pdb
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\obj\Debug\netcoreapp3.1\PatternAdapter.csprojAssemblyReference.cache
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\obj\Debug\netcoreapp3.1\PatternAdapter.AssemblyInfoInputs.cache
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\obj\Debug\netcoreapp3.1\PatternAdapter.AssemblyInfo.cs
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\obj\Debug\netcoreapp3.1\PatternAdapter.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\obj\Debug\netcoreapp3.1\PatternAdapter.dll
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\obj\Debug\netcoreapp3.1\PatternAdapter.pdb
+D:\Meus Documentos\Desktop\Estudo\PatternAdapter\PatternAdapter\obj\Debug\netcoreapp3.1\PatternAdapter.genruntimeconfig.cache
